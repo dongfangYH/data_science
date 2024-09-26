@@ -6,4 +6,5 @@ logs
 models
 saved_model
 data/jira_trem
+data/jira_par
 mlruns
